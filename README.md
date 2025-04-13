@@ -1,4 +1,4 @@
-# Selenium Automation Project
+# Naukri Update Resume
 
 ## Overview
 This project is designed for automating web interactions using Selenium. It provides a structured approach to writing automation scripts, organizing tests, and managing page interactions.
